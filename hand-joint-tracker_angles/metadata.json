@@ -1,0 +1,7 @@
+{
+  "name": "Hand Joint Tracker",
+  "description": "Real-time hand joint detection using MediaPipe. Tracks 17 specific joints per hand as requested.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
